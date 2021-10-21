@@ -1,0 +1,5 @@
+/node_modules
+/__MACOSX
+.idea
+package-lock.json
+package.json
